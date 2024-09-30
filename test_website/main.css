@@ -1,0 +1,14 @@
+.studio {
+	color: red;
+	font-size: 33px;
+	margin-left: 500px;
+}
+#qa {
+	color: skyblue;
+	font-size: 45px;
+}
+
+h2:hover {
+	color:greenyellow;
+	font-size: 40px;
+}
